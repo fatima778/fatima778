@@ -155,18 +155,136 @@ HTML • CSS • JavaScript
 
 ---
 
-# GitHub Analytics
+---
+
+#  Career Highlights
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+###  Full Stack Developer Intern
+
+**Khizex**
+
+Currently contributing to production-ready full-stack applications using modern JavaScript technologies and the MERN stack.
+
+<a href="./certifications/Khizex_Offer_letter.pdf">View Offer Letter ↗</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Backend Developer Intern
+
+**ITVE**
+
+Building scalable backend services, REST APIs, and gaining hands-on industry experience.
+
+ <a href="./certifications/ITVE_Offer_Letter.pdf">View Offer Letter ↗</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Modern Web & App Development
+
+**Saylani Mass IT Training Program**
+
+Successfully completed an intensive Modern Web & App Development program covering full-stack web technologies and practical software engineering.
+
+ <a href="./certifications/Saylani_modern_web.pdf">View Certificate ↗</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+###  Deloitte Technology Job Simulation
+
+Completed Deloitte's technology experience program focused on software engineering, debugging, and professional problem-solving.
+
+ <a href="./certifications/Diolette_job_simulation.pdf">View Certificate ↗</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### FemHack
+
+Participated in FemHack, collaborating on innovative software solutions while strengthening development and teamwork skills.
+
+ <a href="./certifications/Femhack_certificatee.pdf">View Certificate ↗</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+###  Internship Completion
+
+**KlipArt**
+
+Successfully completed a professional software development internship, gaining practical industry experience.
+
+ <a href="./certifications/KlipArt_Internship.pdf">View Certificate ↗</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+#  Currently Building
+
+-  **The Habit Tracker** — Production-ready MERN E-Commerce Platform
+-  Developing scalable backend APIs during my internship at **ITVE**
+-  Learning  **System Design**, and **Software Architecture**
+-  Preparing for **Software Engineer** opportunities
+
+---
+
+#  Beyond Code
+
+> I believe great software is built by combining clean code, thoughtful design, and continuous learning to solve real-world problems.
+
+---
+
+#  Let's Connect
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatima778&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://www.linkedin.com/in/fatima-khalid-siddqui-03831b305/">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima778&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="mailto:uroojfatimakhalid740@gmail.com">
+<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/fatima778">
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
+---
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima778&theme=tokyonight&hide_border=true"/>
+##  Thanks for Visiting!
+
+*Building software that solves real-world problems through clean architecture, scalable solutions, and continuous learning.*
+
+ Feel free to explore my repositories and connect with me.
 
 </p>
