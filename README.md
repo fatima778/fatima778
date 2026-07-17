@@ -22,7 +22,7 @@ Building scalable web applications with modern JavaScript technologies.
 
 ---
 
-# 💜 Developer Dashboard
+# Developer Dashboard
 
 ```yaml
 Name: Fatima Khalid Siddiqui
@@ -55,7 +55,7 @@ Looking For:
   Full-Time Software Engineer Opportunities
 ```
 
-## 💜 About Me
+## About Me
 
 ```javascript
 const fatima = {
@@ -107,3 +107,93 @@ const fatima = {
 -  Learning Laravel and software architecture
 -  Contributing to real-world internship projects
 -  Preparing for Software Engineer roles
+
+---
+
+#  Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+###  Khizex Grocery
+
+Production-style grocery e-commerce platform built with React, TypeScript, Express, and MongoDB.
+
+**Tech Stack**
+
+React • TypeScript • Express • MongoDB • Socket.IO • JWT
+
+ **Repository:** https://github.com/fatima778/Khizex_grocerry
+
+ **Live Demo:** https://khizex-grocerry-tvbg.vercel.app
+
+</td>
+
+<td width="50%">
+
+###  Employee Dashboard
+
+Modern employee management system with CRUD operations and role-based management.
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB
+
+🔗 **Repository:** https://github.com/fatima778/employee_dashboard
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Task Manager
+
+Real-time task management application with Firebase integration.
+
+**Tech Stack**
+
+React • Node.js • Firebase
+
+🔗 **Repository:** https://github.com/fatima778/task-manager
+
+</td>
+
+<td width="50%">
+
+### Skill Map
+
+Interactive platform to visualize and track learning progress.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+🔗 **Repository:** https://github.com/fatima778/skillMap
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatima778&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima778&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima778&theme=tokyonight&hide_border=true"/>
+
+</p>
