@@ -55,43 +55,16 @@ Looking For:
   Full-Time Software Engineer Opportunities
 ```
 
-## About Me
+##  About Me
 
-```javascript
-const fatima = {
-  name: "Fatima Khalid Siddiqui",
-  role: "Full-Stack Developer",
-  education: "BS Software Engineering @ SMIU",
-  location: "Karachi, Pakistan",
+I'm a final-year Software Engineering student at **Sindh Madressatul Islam University** with hands-on experience building full-stack web applications.
 
-  currentlyWorking: [
-    "Full Stack Developer Intern @ Khizex",
-    "Backend Developer Intern @ ITVE"
-  ],
+Currently, I'm working as:
 
-  specialization: [
-    "React.js",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "REST APIs"
-  ],
+- Full Stack Developer Intern at **Khizex**
+- Backend Developer Intern at **ITVE**
 
-  currentlyLearning: [
-    "Laravel",
-    "System Design",
-    "Clean Architecture"
-  ],
-
-  askMeAbout: [
-    "MERN Stack",
-    "Backend Development",
-    "API Development"
-  ],
-
-  funFact: "I enjoy building products that solve real-world problems 🚀"
-};
-```
+I enjoy developing scalable applications using the MERN stack, designing RESTful APIs, and continuously exploring modern technologies to build efficient, user-focused solutions.
 
 ## Tech Arsenal
 
