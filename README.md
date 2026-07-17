@@ -2,7 +2,7 @@
   <img src="./My_banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Fatima Khalid Siddiqui</h1>
+<h1 align="center">Hi!, I'm Fatima Khalid Siddiqui</h1>
 
 <h3 align="center">
 Full-Stack Developer • Backend Developer • MERN Stack Engineer
@@ -34,7 +34,7 @@ Education:
   Sindh Madressatul Islam University
 
 Current Status:
-  🟢 Building production-ready applications
+  - Building production-ready applications
 
 Current Internships:
   • Full Stack Developer @ Khizex
@@ -54,3 +54,56 @@ Currently Learning:
 Looking For:
   Full-Time Software Engineer Opportunities
 ```
+
+## 💜 About Me
+
+```javascript
+const fatima = {
+  name: "Fatima Khalid Siddiqui",
+  role: "Full-Stack Developer",
+  education: "BS Software Engineering @ SMIU",
+  location: "Karachi, Pakistan",
+
+  currentlyWorking: [
+    "Full Stack Developer Intern @ Khizex",
+    "Backend Developer Intern @ ITVE"
+  ],
+
+  specialization: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs"
+  ],
+
+  currentlyLearning: [
+    "Laravel",
+    "System Design",
+    "Clean Architecture"
+  ],
+
+  askMeAbout: [
+    "MERN Stack",
+    "Backend Development",
+    "API Development"
+  ],
+
+  funFact: "I enjoy building products that solve real-world problems 🚀"
+};
+```
+
+## Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,php,git,github,firebase,bootstrap,html,css,vscode,postman&perline=8"/>
+
+</p>
+
+##  Current Focus
+
+-  Building production-ready full-stack applications
+-  Learning Laravel and software architecture
+-  Contributing to real-world internship projects
+-  Preparing for Software Engineer roles
