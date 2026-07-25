@@ -289,11 +289,9 @@ I'm always open to discussing:
 
 ---
 
-
-Feel free to explore my repositories and connect with me.
-
 <p align="center">
 If you like my work, consider starring a repository!
+Feel free to explore my repositories and connect with me
 </p>
 <p align="center">
 
