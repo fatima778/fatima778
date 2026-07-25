@@ -76,11 +76,11 @@ I enjoy developing scalable applications using the MERN stack, designing RESTful
 
 ##  Current Focus
 
--  Building production-ready full-stack applications
--  Learning Laravel and software architecture
--  Contributing to real-world internship projects
--  Preparing for Software Engineer roles
-
+-  Building a **Web3D Showcase Platform**
+-  Developing scalable backend APIs during my internship at **ITVE**
+-  Building production-ready MERN applications
+-  Learning **System Design** & **Clean Architecture**
+-  Preparing for Full-Time Software Engineer opportunities
 ---
 
 #  Featured Projects
@@ -105,6 +105,22 @@ React • TypeScript • Express • MongoDB • Socket.IO • JWT
 
 <td width="50%">
 
+## StokeFlame
+
+Production-ready MERN habit tracker featuring interactive streak visualization, analytics dashboard, authentication, and modern UI.
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Socket.IO • JWT
+
+ **Repository:** https://github.com/fatima778/habit_tracker
+
+ **Live Demo:** https://stokeflame.vercel.app/
+
+</td>
+
+<td width="50%">
+
 ###  Employee Dashboard
 
 Modern employee management system with CRUD operations and role-based management.
@@ -113,27 +129,13 @@ Modern employee management system with CRUD operations and role-based management
 
 React • Node.js • Express • MongoDB
 
-🔗 **Repository:** https://github.com/fatima778/employee_dashboard
+ **Repository:** https://github.com/fatima778/employee_dashboard
 
 </td>
 
 </tr>
 
 <tr>
-
-<td width="50%">
-
-### Task Manager
-
-Real-time task management application with Firebase integration.
-
-**Tech Stack**
-
-React • Node.js • Firebase
-
-🔗 **Repository:** https://github.com/fatima778/task-manager
-
-</td>
 
 <td width="50%">
 
@@ -244,23 +246,54 @@ Successfully completed a professional software development internship, gaining p
 
 ---
 
-#  Currently Building
+# GitHub Contributions
 
--  **The Habit Tracker** — Production-ready MERN E-Commerce Platform
--  Developing scalable backend APIs during my internship at **ITVE**
--  Learning  **System Design**, and **Software Architecture**
--  Preparing for **Software Engineer** opportunities
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatima778&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatima778&theme=tokyonight"/>
+</p>
+
+> My GitHub activity updates automatically as I continue building projects and contributing to open source.
 
 ---
 
-#  Beyond Code
+# GitHub Achievement
 
-> I believe great software is built by combining clean code, thoughtful design, and continuous learning to solve real-world problems.
+###  Quickdraw
+
+Earned my first GitHub Achievement by resolving an issue shortly after opening it.
+
+Every milestone reflects consistency, curiosity, and continuous learning.
+
+# Beyond Code
+
+> I believe great software is built by combining clean architecture, thoughtful design, and continuous learning to solve real-world problems.
+
+Outside development, I enjoy exploring new technologies, improving UI/UX experiences, and transforming ideas into impactful digital products.
 
 ---
 
-#  Let's Connect
+# Let's Connect
 
+I'm always open to discussing:
+
+- Full-Stack Development
+- Backend Engineering
+- Software Engineering
+- Open Source Collaboration
+- Internship & Graduate Opportunities
+
+---
+
+
+Feel free to explore my repositories and connect with me.
+
+<p align="center">
+If you like my work, consider starring a repository!
+</p>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/fatima-khalid-siddqui-03831b305/">
@@ -284,7 +317,8 @@ Successfully completed a professional software development internship, gaining p
 ##  Thanks for Visiting!
 
 *Building software that solves real-world problems through clean architecture, scalable solutions, and continuous learning.*
-
- Feel free to explore my repositories and connect with me.
-
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,25:8B5CF6,50:C084FC,75:D8B4FE,100:E9D5FF&section=footer"/>
+
+
