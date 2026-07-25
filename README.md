@@ -119,6 +119,11 @@ React • Node.js • Express • MongoDB • Socket.IO • JWT
 
 </td>
 
+
+</tr>
+
+<tr>
+  
 <td width="50%">
 
 ###  Employee Dashboard
@@ -132,10 +137,6 @@ React • Node.js • Express • MongoDB
  **Repository:** https://github.com/fatima778/employee_dashboard
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
